@@ -19,7 +19,7 @@ public void loginApp()
     fb.setpass(pwd);
     fb.passBtn();
     Assert.fail();
-
+   system.out.println("hai");
 }
 
 }
